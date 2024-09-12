@@ -1,6 +1,8 @@
 ### Hey, I’m João G.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobotoni)](https://github.com/joaobotoni/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaobotoni&show_icons=true&theme=transparent)
+
 
 
 ### Technologies in development
