@@ -1,10 +1,8 @@
-### Hey, I’m João G.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&width=1000&lines=HELLO,+MY+NAME+is+João+G;I'm+18+years+old;systems+development+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobotoni&layout=compact&theme=dark&hide_border=true" />
-<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=joaobotoni&bg_color=000000&color=ffff&line=ffff&point=ffff&area=true&hide_border=true" />
 </div>
-
   
 
 ### Technologies in development
