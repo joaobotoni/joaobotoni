@@ -2,10 +2,10 @@
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaobotoni&layout=compact&theme=dark&hide_border=true" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaobotoni&show_icons=true&theme=dark&hide_border=true" alt="Anurag's GitHub stats" />
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=joaobotoni&bg_color=000000&color=ffff&line=ffff&point=ffff&area=true&hide_border=true" />
 </div>
 
-  <img height="270em" src="https://github-readme-activity-graph.vercel.app/graph?username=joaobotoni&bg_color=000000&color=ffff&line=ffff&point=ffff&area=true&hide_border=true" />
+  
 
 ### Technologies in development
 
