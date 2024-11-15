@@ -13,7 +13,7 @@
 <img title="git" alt="git" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50px"/>
 
-### Social Media
+### Social
 <br>
 
 <a href="https://www.linkedin.com/in/joaobotoni/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> &nbsp;&nbsp;&nbsp;&nbsp;
