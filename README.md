@@ -1,9 +1,8 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaobotoni&layout=compact&theme=dark&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=joaobotoni&count_private=true&theme=react&border_radius=10&bg_color=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true&width=200)
 
 
 ### Technologies in development
 <br>
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45px"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45px"/>&nbsp;&nbsp;&nbsp;&nbsp;
