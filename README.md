@@ -29,6 +29,6 @@
 
 <br>
 
-<img src="https://streak-stats.vercel.app/?user=joaobotoni&count_private=true&theme=dark&border_radius=10&bg_color=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true" width="400">
+
 
 
