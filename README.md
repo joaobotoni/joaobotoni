@@ -12,8 +12,8 @@
 <div style="display: flex">
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white&background=000000" alt="Spring Boot">
   <img src="https://img.shields.io/badge/-Laravel-E74430?style=flat&logo=laravel&logoColor=white&background=000000" alt="Laravel">
-  <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman">
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman">
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
 </div>
 
