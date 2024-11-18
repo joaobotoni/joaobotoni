@@ -18,7 +18,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white&background=000000" alt="Spring Boot">
-    <img src="https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white&background=000000" alt="Hibernate">
+    <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white&background=000000" alt="Maven">
     <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman">
     <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
