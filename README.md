@@ -9,8 +9,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="45px"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45px"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img alt="JS" title="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50px"/>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50px"/>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="50px" />
 </div>
 
@@ -19,6 +19,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white&background=000000" alt="Spring Boot">
     <img src="https://img.shields.io/badge/-Maven-232F3E?style=flat&logo=apachemaven&logoColor=C71A36" alt="Maven">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=blue&color=292929" alt="React">
     <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/-Insomnia-6c4fbd?style=flat&logo=insomnia" alt="Insomnia">
     <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git">
