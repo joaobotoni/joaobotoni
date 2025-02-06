@@ -5,7 +5,7 @@
 # Technologies in development
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,kotlin,nodejs" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,nodejs" alt="My Skills"/>
 </div>
 <br>
 <div align="center">
