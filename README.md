@@ -5,14 +5,10 @@
 # Technologies in development
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,nodejs" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=maven,gradle,spring,androidstudio,java" alt="My Skills"/>
 </div>
 <br>
 <div align="center">
-    <img src="https://img.shields.io/badge/-Spring-232F3E?style=flat&logo=spring&logoColor=green" alt="Spring">
-    <img src="https://img.shields.io/badge/-Maven-232F3E?style=flat&logo=apachemaven&logoColor=C71A36" alt="Maven">
-    <img src="https://img.shields.io/badge/-Laravel-232F3E?style=flat&logo=laravel&logoColor" alt="Spring">
-    <img src="https://img.shields.io/badge/-React-232F3E?style=flat&logo=react&logoColor=61DAFB" alt="React">
     <img src="https://img.shields.io/badge/-PostgreSQL-232F3E?style=flat&logo=postgresql" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/-Insomnia-232F3E?style=flat&logo=insomnia&logoColor=6C63FF" alt="Insomnia">
     <img src="https://img.shields.io/badge/-Docker-232F3E?style=flat&logo=docker" alt="Docker">
