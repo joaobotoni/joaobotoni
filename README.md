@@ -10,7 +10,7 @@
 <br>
 <div align="center">
     <img src="https://img.shields.io/badge/-PostgreSQL-232F3E?style=flat&logo=postgresql" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/-Postman-232F3E?style=flat&logo=postman&logoColor=FF6C37" alt="Postman">
+    <img src="https://img.shields.io/badge/-Insomnia-232F3E?style=flat&logo=insomnia&logoColor=FFFFFF" alt="Insomnia">
     <img src="https://img.shields.io/badge/-Docker-232F3E?style=flat&logo=docker" alt="Docker">
     <img src="https://img.shields.io/badge/-Git-232F3E?style=flat&logo=git" alt="Git">
 </div>
