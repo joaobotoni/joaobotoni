@@ -9,8 +9,9 @@
 </div>
 <br>
 <div align="center">
+    <img src="https://img.shields.io/badge/-Android-232F3E?style=flat&logo=android" alt="Android">
+    <img src="https://img.shields.io/badge/-SQLite-232F3E?style=flat&logo=sqlite" alt="SQLite">
     <img src="https://img.shields.io/badge/-PostgreSQL-232F3E?style=flat&logo=postgresql" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/-Docker-232F3E?style=flat&logo=docker" alt="Docker">
     <img src="https://img.shields.io/badge/-Git-232F3E?style=flat&logo=git" alt="Git">
 </div>
 
