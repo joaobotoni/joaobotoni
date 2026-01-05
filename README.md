@@ -5,7 +5,7 @@
 # Technologies in development
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=maven,gradle,spring,androidstudio,java,kotlin" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=maven,gradle,androidstudio,java,kotlin" alt="My Skills"/>
 </div>
 <br>
 <div align="center">
